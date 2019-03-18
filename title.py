@@ -13,7 +13,6 @@ from sklearn.metrics import accuracy_score
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.tree import export_graphviz
 
-
 def read_data(path):
     
     db = pd.read_csv(path, sep=";")
