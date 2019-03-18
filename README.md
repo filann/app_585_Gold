@@ -1,6 +1,4 @@
-### project_autumn_2018
-
-
+### app for solving routine analytical tasks in 585 Gold
 
 ---
 
@@ -30,5 +28,6 @@
 - simple ui for testing
 - using PySide2
 
+---
 
-остальное - старые наработки по проекту
+other - first developments of project
